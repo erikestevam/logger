@@ -1,0 +1,7 @@
+com\mycompany\logger\CsvLogStrategy.class
+com\mycompany\logger\Logger.class
+com\mycompany\logger\Main.class
+com\mycompany\logger\LogStrategyFactory.class
+com\mycompany\logger\LogStrategy.class
+com\mycompany\logger\UserLoggerAdapter.class
+com\mycompany\logger\JsonLogStrategy.class
